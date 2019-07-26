@@ -1,0 +1,116 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #ffffff;
+  }
+  
+header {
+    background: #ffffff;
+  }
+
+  h1 {
+    padding: 40px 0;
+    margin-left: 220px;
+    margin-right: 880px;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background: rgb(69, 82, 203);
+  }
+ form {
+    padding: 40px 0;
+    margin-left: 220px;
+    margin-right: 880px;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background: rgb(69, 82, 203);
+
+ }
+  .button {
+    background-color: #1c87c9;
+    border: none;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 28px;
+    margin: 40px 20px;
+    cursor: pointer;
+    }
+
+  h2 {
+    font-size: 24px;
+  }
+  h3 {
+    margin: 100px;
+    font-size: 30px;
+  }
+  a {
+    color: #2F239F;
+  }
+ 
+  .container1 {
+    width: 800px;
+    margin: 0 auto;
+    background:  #ffffff;
+    margin-left: 200px;
+  }
+
+  .container2 {
+    width: 900px;
+    margin: 0 auto;
+    background: #ffffff;
+  }
+  
+  .container3 {
+    width: 800px;
+    margin: 0 auto;
+    background: #ffffff;
+    margin-left: 200px;
+  }
+
+  
+
+  #main-bio,
+  #contact-info,
+  #bio-image {
+    float: left;
+  }
+  
+  #main-bio {
+    width: 70%;
+  }
+  
+  #contact-info {
+    width: 30%;
+  }
+  
+  #bio-image {
+    width: 150px;
+    height: 190px;
+    margin-right: 20px;
+  
+  }
+  .contactButtons {
+    transition: all;
+  }
+  .Sketchup {
+    width: 1024px;
+    height: 500px;
+    margin: left;
+  }
+  #images {
+    margin: 0;
+    width: 540px;
+    height: 276px;
+    margin: center;
+
+  }
