@@ -1,1 +1,0 @@
-# nathanielprice.github.io
